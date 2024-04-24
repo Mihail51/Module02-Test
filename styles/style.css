@@ -53,14 +53,14 @@
         width: 300px;
         transform: rotate(90deg);
         position: absolute;
-        margin-right: 100%;
+        margin-right: 90%;
         margin-top: 150px;
     }
     .content__banner_2 {
         width: 300px;
         transform: rotate(90deg);
         position: absolute;
-        margin-left: 100%;
+        margin-left: 90%;
         margin-top: 150px;
     }
     .content__text {
@@ -104,6 +104,17 @@
         max-width: 1140px;
     }
     .content__text {
-        width: 600px;
+        width: 700px;
+    }
+ }
+ @media (min-width: 1400px) {
+    .content {
+        max-width: 1600px;
+    }
+    .content__container {
+        max-width: 1320px;
+    }
+    .content__text {
+        width: 700px;
     }
  }
