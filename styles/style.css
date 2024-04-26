@@ -66,6 +66,11 @@
  background: #b5f652;
   background: linear-gradient(to top, #b5f652, #0a9e5b);
 }
+.content__text {
+    font-size: 20px;
+    line-height: 150%;
+    font-weight: 700;
+}
 
 
 
