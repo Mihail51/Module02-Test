@@ -24,7 +24,7 @@
 }
 .content__banner a img {
     width: 100%;
-    height: 50px;
+    height: auto;
     background-color: yellow;
 }
 .content__buttons {
